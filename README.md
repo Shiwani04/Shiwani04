@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiwani
-- 👀 I’m interested in 
+- 👀 I’m interested in front end programming
 - 🌱 I’m currently learning javascript and its frameworks
 - 💞️ I’m looking for internships in front end development
 - 📫 How to reach me ... 
